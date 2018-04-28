@@ -469,5 +469,10 @@ body {
 .lead:hover {
   color: rgb(66, 63, 63);
 }
+
+.modal-content {
+  background-color: #0a7425;
+  text-align: center;
+}
 /* @end */
   
