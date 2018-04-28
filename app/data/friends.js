@@ -1,7 +1,7 @@
 let friends = [
     {
         "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"http://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/panda_16x9.jpg?itok=8a0-7WSj",
         "scores":[
             5,
             1,
@@ -16,7 +16,7 @@ let friends = [
           ]
       },{
         "name":"Jamal",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://cdn.britannica.com/700x450/26/162626-004-C076EDBD.jpg",
         "scores":[
             1,
             5,
@@ -31,7 +31,7 @@ let friends = [
           ]
       },{
         "name":"Ponko",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo":"https://img.buzzfeed.com/buzzfeed-static/static/2015-02/18/10/enhanced/webdr09/enhanced-buzz-32241-1424274656-13.jpg?downsize=715:*&output-format=auto&output-quality=auto",
         "scores":[
             3,
             2,
