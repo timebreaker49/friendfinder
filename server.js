@@ -6,8 +6,8 @@ let html = require("./app/routing/htmlRoutes.js");
 let api = require("./app/routing/apiRoutes.js");
 let friends = require("./app/data/friends.js");
 
-let app = express();
-let PORT = 10000;
+const app = express();
+const PORT = process.env.PORT || 10000;
 
 app.use(parser.urlencoded({ extended: true}));
 app.use(parser.json());
