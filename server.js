@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 10000;
 
 app.use(parser.urlencoded({ extended: true}));
 app.use(parser.json());
-app.use("./app/public", express.static("./app/public"));
+app.use("/app/public", express.static("/app/public"));
 
 // html routes
 let homePage = new html();
